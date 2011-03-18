@@ -1,3 +1,5 @@
-= sms
+= redmine_sms
 
-Description goes here
+Very simple plugin for SMS notification when user creates new ticket
+
+Just edit lib/hooks.rb with your username/password/number to send sms
